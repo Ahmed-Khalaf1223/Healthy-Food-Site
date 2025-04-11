@@ -28,10 +28,6 @@ This website presents a healthy food menu with images, descriptions, and buttons
 - Clean and modern design  
 - Easy to customize  
 
-## 📸 Screenshot
-
-*(You can add a screenshot here if you want)*
-
 ## 🛠️ How to Run the Project  
 1. Clone the repository:  
    ```bash
