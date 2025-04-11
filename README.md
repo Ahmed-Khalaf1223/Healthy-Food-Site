@@ -1,4 +1,4 @@
-🥗 #Welcome to Healthy-Food-Site
+# 🥗 Welcome to Healthy-Food-Site
 
 **At Healthy-Food-Site**, we believe that healthy eating should be both delicious and accessible.
 Our mission is to serve fresh, nutritious, and flavorful meals that nourish your body and delight your taste buds.
@@ -8,8 +8,6 @@ From colorful salads to hearty grain bowls and refreshing smoothies — every di
 🌿 Whether you're on a wellness journey or simply love good food, Healthy-Food-Site is your destination for healthy choices made easy.
 
 Eat well. Live better. Feel great.
-
-
 
 ## 🔍 Overview
 
@@ -34,8 +32,13 @@ This website presents a healthy food menu with images, descriptions, and buttons
 
 *(You can add a screenshot here if you want)*
 
-## 🚀 How to Use
-
-1. Clone the repository:
+## 🛠️ How to Run the Project  
+1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Healthy-Food-Site.git
+   git clone https://ahmed-khalaf1223.github.io/Healthy-Food-Site/
+
+   📬 Contact
+💡 Created by Ahmed Khalaf – LinkedIn Profile www.linkedin.com/in/
+ahmed-khalaf-25a9ba2b4
+
+📧 Feel free to reach out via email: ahmedkhalaf1223@gmail.com
